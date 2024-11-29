@@ -12,7 +12,7 @@ export default async function data () {
         <div className='text-white lg:grid lg:grid-cols-2'>
       {conv.quotes.map((items:any)=>{
         return(
-            <Link href={`/quotes/${items.id}`}>
+            <Link href={`/quotes/${items.id}`} key={items.id}>
                 <div className="text-gray-600 body-font ">
   <div className="px-16 py-4  ">
     <div className="">
