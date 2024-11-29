@@ -17,10 +17,10 @@ const page = () => {
       <h1 className="title-font sm:text-4xl text-3xl mb-4 text-white font-bold">
       Hello!
         <br className="text-white font-bold" />
-        I'm Ghaniya Khan,
+        Im Ghaniya Khan,
       </h1>
       <p className="mb-8 leading-relaxed text-white">
-        a passionate frontend developer and student at GIAIC, pursuing my college studies simultaneously. With a strong foundation in HTML, CSS, JavaScript, and TypeScript, I've also gained expertise in design tools like Figma, and frameworks like React and Next.js. This practice project website is my attempt to showcase my skills and creativity, and I'm excited to share it with you!
+        a passionate frontend developer and student at GIAIC, pursuing my college studies simultaneously. With a strong foundation in HTML, CSS, JavaScript, and TypeScript, Ive also gained expertise in design tools like Figma, and frameworks like React and Next.js. This practice project website is my attempt to showcase my skills and creativity, and Im excited to share it with you!
       </p>
       <div className="flex justify-center">
         <button className="inline-flex text-black bg-white border-0 py-2 px-6 focus:outline-none rounded text-lg">
