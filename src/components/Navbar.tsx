@@ -22,7 +22,7 @@ async function Navbar  ()  {
             <ul className='flex gap-11 '>
                 <Link href={"/"}><li className='hover:border-b-4 hover:duration-300 hover:border-white'>Home</li></Link>
                 <Link href={"/quotes"}><li className='hover:border-b-4 hover:duration-300 hover:border-white'>Quotes</li></Link>
-                <Link href={"about"}><li className='hover:border-b-4 hover:duration-300 hover:border-white'>About</li></Link>
+                <Link href={"/about"}><li className='hover:border-b-4 hover:duration-300 hover:border-white'>About</li></Link>
                 <Link href={"contact"}><li className='hover:border-b-4 hover:duration-300 hover:border-white '>Contact</li></Link>
             </ul>
         </div>
